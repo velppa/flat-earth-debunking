@@ -1,0 +1,250 @@
+* Flat Earth Debunked
+:PROPERTIES:
+:ONE: flat-earth-home
+:CUSTOM_ID: /
+:END:
+
+Welcome to *Flat Earth Debunked* — a science-based blog systematically
+dismantling the most common flat earth claims using physics, astronomy,
+mathematics, and direct observation.
+
+#+begin_quote
+"The Earth is not flat. It has never been flat. Here's why." — every scientist ever
+#+end_quote
+
+** What you'll find here
+
+- Evidence from ships, horizons, and the curvature of the Earth
+- Why Antarctica disproves the flat earth "ice wall" model
+- How GPS, satellites, and time zones only make sense on a sphere
+- What astronauts, pilots, and sailors have always known
+
+** Articles
+
+- [[#/debunking-horizon/][The Horizon: Your First Clue the Earth is Round]]
+- [[#/debunking-gravity/][Gravity: Why a Flat Earth Can't Hold Its Own Atmosphere]]
+- [[#/debunking-antarctica/][Antarctica: Circumnavigation and the Impossible Ice Wall]]
+- [[#/debunking-iss/][The ISS, Satellites, and Live Video from Space]]
+- [[#/debunking-ships/][Ships Over the Horizon: The Oldest Proof in the Book]]
+
+* The Horizon: Your First Clue the Earth is Round
+:PROPERTIES:
+:ONE: flat-earth-post
+:CUSTOM_ID: /debunking-horizon/
+:END:
+
+** The vanishing point illusion vs. actual curvature
+
+Flat earthers claim that objects disappear at the horizon due to
+"perspective" — that is, they simply get too small to see. This is
+demonstrably false and easy to test.
+
+** The experiment anyone can run
+
+Take a camera with a zoom lens to the ocean. Watch a ship sail away.
+Notice that the *hull disappears before the mast*. This is not
+perspective — zooming in restores the full size of the ship's upper
+structure, but the bottom remains hidden.
+
+This happens because the Earth curves *downward away from you* at a
+rate of roughly 8 inches per mile squared. At 10 miles distance, the
+surface has dropped approximately 66 feet below your line of sight.
+
+** The Bedford Level Experiment
+
+In 1838, Samuel Rowbotham conducted the famous Bedford Level experiment,
+claiming to show the Earth was flat. In 1870, John Hampden's wager led
+Alfred Russel Wallace to repeat it *correctly* — using proper controls
+for atmospheric refraction — conclusively proving curvature.
+
+Modern laser experiments and high-resolution cameras have replicated this
+hundreds of times. The curvature is measurable and consistent with a
+spherical Earth of radius ~6,371 km.
+
+** The math
+
+For an observer at height ~h~ meters, the horizon distance ~d~ in
+kilometers is:
+
+~d ≈ √(2Rh)~
+
+where R = 6,371 km. For a person 1.7m tall, the horizon is ~4.7 km
+away. This formula has been verified by sailors, surveyors, and
+aircraft pilots for centuries.
+
+* Gravity: Why a Flat Earth Can't Hold Its Own Atmosphere
+:PROPERTIES:
+:ONE: flat-earth-post
+:CUSTOM_ID: /debunking-gravity/
+:END:
+
+** The atmosphere problem
+
+A flat disc cannot gravitationally retain an atmosphere. On a sphere,
+gravity points toward the center of mass uniformly from all surface
+points. On a flat disc, gravity would point *downward through the disc*
+— meaning the atmosphere at the edges would drift off into space.
+
+Flat earthers often claim the disc accelerates upward at 9.8 m/s² to
+simulate gravity. This requires:
+
+1. An infinite energy source
+2. Relativistic speeds within ~1 year of continuous acceleration
+3. An explanation of why gravity varies with latitude and altitude
+
+None of these have been provided.
+
+** Gravitational variation
+
+Gravity is not uniform across Earth's surface. It is slightly stronger
+at the poles (~9.832 m/s²) than at the equator (~9.780 m/s²). This is
+*precisely* what a rotating oblate spheroid predicts — the equatorial
+bulge places you slightly farther from the center of mass, and
+centrifugal force reduces the effective gravitational pull.
+
+This variation has been measured to extraordinary precision by
+gravimeters and is used daily in oil exploration, geology, and civil
+engineering. It has no explanation in any flat earth model.
+
+** Tides
+
+Tides are caused by the differential gravitational pull of the Moon and
+Sun across Earth's diameter. They follow predictable cycles governed by
+orbital mechanics — cycles that have been calculated centuries in advance
+with perfect accuracy.
+
+On a flat earth, there is no coherent explanation for why two tidal
+bulges occur simultaneously on opposite sides of the Earth.
+
+* Antarctica: Circumnavigation and the Impossible Ice Wall
+:PROPERTIES:
+:ONE: flat-earth-post
+:CUSTOM_ID: /debunking-antarctica/
+:END:
+
+** The flat earth map's fatal flaw
+
+The most popular flat earth model places Antarctica as a giant ice wall
+surrounding the disc. This makes a testable prediction: the southern
+hemisphere should be *much larger* than the northern hemisphere. Flights
+and sea routes should take radically longer when traveling through the
+south.
+
+They don't.
+
+** Direct flights and sailing routes
+
+A flight from Sydney to Johannesburg takes approximately 11 hours and
+travels roughly southwest. On the flat earth map, this route would be
+thousands of kilometers longer than it actually is — the flight would
+need to curve far north via Asia and Africa.
+
+Multiple circumnavigations of Antarctica have been completed by ship
+and aircraft. The distance is consistently ~22,000 km — exactly what
+you'd expect for a continent of Antarctica's actual size at ~70°S
+latitude on a sphere. On the flat earth model, this journey would be
+~60,000+ km.
+
+** Antarctica Treaty and the "conspiracy"
+
+Flat earthers claim a global conspiracy keeps people from visiting the
+ice wall. In reality, Antarctica hosts ~70 permanent research stations
+from 30+ countries. Thousands of tourists, scientists, and adventurers
+visit annually. Dozens of private expeditions have circumnavigated the
+continent.
+
+No credible conspiracy explanation accounts for the coordinated silence
+of scientists from the US, Russia, China, and dozens of other nations
+— many of which are fierce geopolitical rivals.
+
+* The ISS, Satellites, and Live Video from Space
+:PROPERTIES:
+:ONE: flat-earth-post
+:CUSTOM_ID: /debunking-iss/
+:END:
+
+** You can see the ISS with your own eyes
+
+The International Space Station is visible to the naked eye from any
+location on Earth. Websites like NASA's Spot the Station provide exact
+times and sky positions — and they are accurate to the second.
+
+If the ISS were a fake projection or high-altitude plane, its trajectory
+would not follow the precise orbital mechanics predicted by Kepler's
+laws. Amateur astronomers photograph it nightly with telescopes,
+capturing detail of its solar panels.
+
+** Satellites and GPS
+
+The Global Positioning System consists of 31+ operational satellites
+in medium Earth orbit at ~20,200 km altitude. Your phone uses
+triangulation from multiple satellites simultaneously to determine
+your position to within a few meters.
+
+This only works if:
+- The satellites exist
+- They are where orbital mechanics predicts they will be
+- The speed-of-light delays match the distances involved
+
+Flat earth models cannot account for GPS accuracy, nor for the
+existence of geostationary satellites (which must be directly above
+the equator and orbit at ~35,786 km to remain stationary relative
+to Earth's surface).
+
+** Live footage
+
+Multiple space agencies — NASA, ESA, JAXA, Roscosmos — as well as
+private companies like SpaceX broadcast live, unedited footage from
+space. Independent amateur astronomers point telescopes at the ISS
+and livestream independently. The curvature of Earth is visible in
+all footage taken from sufficient altitude.
+
+* Ships Over the Horizon: The Oldest Proof in the Book
+:PROPERTIES:
+:ONE: flat-earth-post
+:CUSTOM_ID: /debunking-ships/
+:END:
+
+** Aristotle knew
+
+In 350 BCE, Aristotle listed the ships-disappearing-hull-first
+observation as evidence that Earth is a sphere. This is among the
+oldest surviving empirical arguments for a spherical Earth.
+
+Nothing has changed since then except our ability to zoom in with
+cameras and confirm that the hull is genuinely *behind the curvature*
+— not merely too small to see.
+
+** The zoom test
+
+When a ship disappears over the horizon hull-first, zooming in with
+binoculars or a telephoto lens restores the upper structure of the ship
+clearly — the mast, the bridge, the funnel. The hull remains invisible.
+
+If disappearance were due to perspective, zooming in would restore the
+entire ship. The hull's absence proves it is geometrically occluded by
+the curvature of the Earth.
+
+** Lighthouses
+
+The height of lighthouses is determined by their required visibility
+range — which is calculated using the curvature of the Earth. A
+lighthouse at 30m height is visible at roughly 19 km. Raise it to
+120m and it's visible at ~39 km.
+
+These calculations have been used by maritime engineers for centuries.
+Ships have not been running aground in large numbers due to visibility
+miscalculation. The formula works because the Earth is a sphere.
+
+** Summary
+
+The evidence for a spherical Earth is not a matter of trusting
+institutions. It is:
+
+- Directly observable with modest equipment
+- Mathematically consistent across independent domains
+- Confirmed by rival nations and independent researchers worldwide
+- Centuries old, predating all modern governments and space agencies
+
+The Earth is not flat. It has never been flat. The question was settled
+by ancient Greek sailors, and every subsequent measurement has agreed.

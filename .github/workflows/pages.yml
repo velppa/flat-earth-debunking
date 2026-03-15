@@ -1,4 +1,4 @@
-name: Deploy to GitHub Pages
+name: Build and Deploy to GitHub Pages
 
 on:
   push:
@@ -15,16 +15,34 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  deploy:
+  build-and-deploy:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
+      - name: Install Emacs
+        run: sudo apt-get install -y emacs-nox
+
+      - name: Clone one.el dependencies
+        run: |
+          git clone --depth=1 https://github.com/tonyaldon/jack.git jack
+          git clone --depth=1 https://github.com/hniksic/emacs-htmlize.git emacs-htmlize
+          git clone --depth=1 https://github.com/tonyaldon/one.el.git one.el
+
+      - name: Build site with Emacs
+        run: emacs --batch --load build.el
+
+      - name: Add .nojekyll
+        run: touch public/.nojekyll
+
       - uses: actions/configure-pages@v4
+
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: .
+          path: public/
+
       - uses: actions/deploy-pages@v4
         id: deployment
